@@ -1,7 +1,7 @@
 {
   "name": "topbotsgallery",
-  "description": "🤖 20 of the most popular Discord bots are listed in one list. Daily updated.",
-  "version": "1.0.0",
+  "description": "🤖 20 of the most popular Discord bots are listed in one list. Hourly updated.",
+  "version": "1.0.4",
   "main": "cmd/check.js",
   "scripts": {
     "start": "node cmd/check.js",

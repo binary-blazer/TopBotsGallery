@@ -11,7 +11,7 @@ const headers = {
   Authorization: API_TOKEN,
 };
 
-let readmeFileFormat = `# TopBotsGallery\n🤖 20 of the most popular Discord bots are listed in one list. Daily updated.\n\n`;
+let readmeFileFormat = `# TopBotsGallery\n🤖 20 of the most popular Discord bots are listed in one list. Hourly updated.\n\n`;
 
 function formatCount(count) {
   return count.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
