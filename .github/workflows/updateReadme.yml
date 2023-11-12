@@ -2,7 +2,7 @@ name: Update Readme
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 * * * *"
 
 jobs:
   run-bot:
@@ -29,3 +29,12 @@ jobs:
         working-directory: ./cmd
         env:
           TOP_GG_TOKEN: ${{ secrets.TOP_GG_TOKEN }}
+      - name: ☑️ Commit Changes
+        run: |
+          if [[ "$(git status --porcelain)" != "" ]]; then
+            git config user.name binary-blazer
+            git config user.email jonasfranke@sdevs.org
+            git add .
+            git commit -m "[➡️] Update Readme"
+            git push -f
+          fi
