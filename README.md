@@ -30,6 +30,12 @@
 > This list might not include all of the most popular bots and not might not include all exact stats of the bots. This list is based on the [top.gg](https://top.gg) API.
 > Also, we are not affiliated with top.gg in any way.
 
+## 📈 Contributors
+
+<a href="https://github.com/binary-blazer/TopBotsGallery/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=binary-blazer/TopBotsGallery"/>
+</a>
+
 ## 📝 License
 
 This project is licensed under the Apache-2.0 License. See the [LICENSE](https://github.com/binary-blazer/TopBotsGallery/blob/main/LICENSE) file for details or see below.
