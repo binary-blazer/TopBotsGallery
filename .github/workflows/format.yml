@@ -27,7 +27,5 @@ jobs:
           cache: "pnpm"
       - name: 🚀 Install dependencies
         run: pnpm install
-        working-directory: ./TopBotsGallery
       - name: 🚀 Check formatting
         run: "pnpm run format:check"
-        working-directory: ./TopBotsGallery
