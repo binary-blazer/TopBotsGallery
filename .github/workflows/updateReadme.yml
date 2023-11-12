@@ -1,0 +1,31 @@
+name: Update Readme
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node: [18.x]
+    steps:
+      - name: 🧱 Checkout repository
+        uses: actions/checkout@v4
+      - name: 🔩 Setup PNPM
+        uses: pnpm/action-setup@v2
+        with:
+          version: latest
+      - name: 🔩 Setup Node ${{ matrix.node }}
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node }}
+          cache: "pnpm"
+      - name: 🚀 Install dependencies
+        run: pnpm install
+      - name: 🤖 Run system
+        run: pnpm start
+        working-directory: ./cmd
+        env:
+          TOP_GG_TOKEN: ${{ secrets.TOP_GG_TOKEN }}

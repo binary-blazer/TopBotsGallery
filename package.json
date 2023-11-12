@@ -1,0 +1,29 @@
+{
+  "name": "topbotsgallery",
+  "description": "🤖 20 of the most popular Discord bots are listed in one list. Daily updated.",
+  "version": "1.0.0",
+  "main": "cmd/check.js",
+  "scripts": {
+    "start": "node cmd/check.js",
+    "format:check": "prettier --check .",
+    "format:write": "prettier --write .",
+    "lint:check": "eslint .",
+    "lint:fix": "eslint --fix ."
+  },
+  "keywords": [],
+  "author": {
+    "name": "Jonas Franke <@binary-blazer>",
+    "email": "jonasfranke@sdevs.org"
+  },
+  "type": "module",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "axios": "^1.6.1",
+    "dotenv": "^16.3.1",
+    "ora": "^7.0.1",
+    "prettier": "^3.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.53.0"
+  }
+}
