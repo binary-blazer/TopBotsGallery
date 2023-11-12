@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: 🧱 Checkout repository
         uses: actions/checkout@v4
+        with:
+          path: TopBotsGallery
       - name: 🔩 Setup PNPM
         uses: pnpm/action-setup@v2
         with:
@@ -25,5 +27,7 @@ jobs:
           cache: "pnpm"
       - name: 🚀 Install dependencies
         run: pnpm install
+        working-directory: ./TopBotsGallery
       - name: 🚀 Check formatting
         run: "pnpm run format:check"
+        working-directory: ./TopBotsGallery
