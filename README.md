@@ -27,7 +27,7 @@
 
 ## ⚠️ Disclaimer
 
-> This list might not include all of the most popular bots. This list is based on the [top.gg](https://top.gg) API.
+> This list might not include all of the most popular bots and not might not include all exact stats of the bots. This list is based on the [top.gg](https://top.gg) API.
 > Also, we are not affiliated with top.gg in any way.
 
 ## 📝 License
