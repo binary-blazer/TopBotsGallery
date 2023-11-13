@@ -1,6 +1,7 @@
 # TopBotsGallery
 🤖 20 of the most popular Discord bots are listed in one list. Hourly updated.
 
+<!-- prettier-ignore-start -->
 | Bot                | Server Count | Invite               |
 | ------------------ | ------------ | -------------------- |
 | `Rythm#3722`       | 19,700,000   | [Click here to invite](https://rythmbot.co/invite) |
@@ -23,6 +24,7 @@
 | `Mimu#5713`        | 1,957,959    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=493716749342998541&scope=bot%20applications.commands&permissions=1007021169) |
 | `Arcane#7800`      | 1,573,362    | [Click here to invite](https://arcane.bot/invite) |
 | `Ayana#8911`       | 1,565,562    | [Click here to invite](https://ayana.io/invite?ref=dbl) |
+<!-- prettier-ignore-end -->
 
 ## ⚠️ Disclaimer
 > This list might not include all of the most popular bots and not might not include all exact stats of the bots. This list is based on the [top.gg](https://top.gg) API.
