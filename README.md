@@ -1,45 +1,39 @@
 # TopBotsGallery
-
 🤖 20 of the most popular Discord bots are listed in one list. Hourly updated.
 
-<!-- prettier-ignore-start -->
 | Bot                | Server Count | Invite               |
 | ------------------ | ------------ | -------------------- |
 | `Rythm#3722`       | 19,700,000   | [Click here to invite](https://rythmbot.co/invite) |
 | `MEE6#4876`        | 19,500,000   | [Click here to invite](https://discord.com/oauth2/authorize?scope=bot+applications.commands&response_type=code&redirect_uri=https%3A%2F%2Fmee6.xyz%2Fguild-oauth&permissions=296150887519&client_id=159985415099514880) |
 | `ProBot ✨#5803`    | 9,100,000    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=282859044593598464&scope=identify+guilds+bot+applications.commands+applications.commands.permissions.update&permissions=2080374975&response_type=code&redirect_uri=https://api.probot.io/authback) |
-| `Dyno#3861`        | 8,869,819    | [Click here to invite](https://dyno.gg/invite?utm_campaign=topgg) |
+| `Dyno#3861`        | 8,869,859    | [Click here to invite](https://dyno.gg/invite?utm_campaign=topgg) |
 | `Dank Memer#5192`  | 8,627,015    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=270904126974590976&scope=bot%20applications.commands&permissions=105227086912&redirect_uri=https%3A%2F%2Fdankmemer.lol%2Flanding%3Fsource%3Dtopgg&response_type=code) |
-| `OwO#8456`         | 3,634,869    | [Click here to invite](https://discordapp.com/oauth2/authorize?client_id=408785106942164992&permissions=1074120776&scope=bot) |
-| `Jockie Music#8158` | 3,606,761    | [Click here to invite](https://www.jockiemusic.com/api/invite/411916947773587456?site=topgg) |
-| `Nekotina#0608`    | 3,482,484    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=429457053791158281&permissions=1642824461566&scope=bot%20applications.commands) |
-| `Pancake#3691`     | 3,420,774    | [Click here to invite](https://pancake.gg/invite) |
+| `OwO#8456`         | 3,634,896    | [Click here to invite](https://discordapp.com/oauth2/authorize?client_id=408785106942164992&permissions=1074120776&scope=bot) |
+| `Jockie Music#8158` | 3,606,817    | [Click here to invite](https://www.jockiemusic.com/api/invite/411916947773587456?site=topgg) |
+| `Nekotina#0608`    | 3,482,501    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=429457053791158281&permissions=1642824461566&scope=bot%20applications.commands) |
+| `Pancake#3691`     | 3,420,788    | [Click here to invite](https://pancake.gg/invite) |
 | `Carl-bot#1536`    | 3,395,239    | [Click here to invite](https://discordapp.com/oauth2/authorize?client_id=235148962103951360&scope=bot&permissions=2088234238) |
 | `Mudae#0807`       | 3,371,839    | [Click here to invite](https://discord.com/api/oauth2/authorize?client_id=432610292342587392&permissions=537159744&scope=applications.commands%20bot) |
-| `YAGPDB.xyz#8760`  | 3,272,454    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=204255083083333633&scope=applications.commands+bot&permissions=2146827775) |
+| `YAGPDB.xyz#8760`  | 3,272,567    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=204255083083333633&scope=applications.commands+bot&permissions=2146827775) |
 | `ServerStats#0197` | 2,980,000    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=458276816071950337&permissions=1100824&response_type=code&redirect_uri=https%3A%2F%2Fserverstatsbot.com%2Finvite&scope=bot+applications.commands) |
-| `Loritta#0219`     | 2,901,679    | [Click here to invite](https://loritta.website/dashboard) |
-| `Ticket Tool#4843` | 2,893,230    | [Click here to invite](https://discordapp.com/oauth2/authorize?client_id=557628352828014614&scope=applications.commands+bot&permissions=2952915024) |
-| `Koya#1050`        | 2,741,295    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=276060004262477825&scope=bot+applications.commands&permissions=1644971945207&response_type=code&redirect_uri=https%3A%2F%2Fkoya.gg%2Fcallback) |
-| `UnbelievaBoat#1046` | 2,211,250    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=292953664492929025&scope=bot%20applications.commands&permissions=829811966&response_type=code&redirect_uri=https://unbelievaboat.com/landing) |
-| `Mimu#5713`        | 1,957,959    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=493716749342998541&scope=bot%20applications.commands&permissions=1007021169) |
-| `Arcane#7800`      | 1,573,362    | [Click here to invite](https://arcane.bot/invite) |
-| `Ayana#8911`       | 1,565,562    | [Click here to invite](https://ayana.io/invite?ref=dbl) |
-<!-- prettier-ignore-end -->
+| `Loritta#0219`     | 2,901,690    | [Click here to invite](https://loritta.website/dashboard) |
+| `Ticket Tool#4843` | 2,893,254    | [Click here to invite](https://discordapp.com/oauth2/authorize?client_id=557628352828014614&scope=applications.commands+bot&permissions=2952915024) |
+| `Koya#1050`        | 2,741,308    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=276060004262477825&scope=bot+applications.commands&permissions=1644971945207&response_type=code&redirect_uri=https%3A%2F%2Fkoya.gg%2Fcallback) |
+| `UnbelievaBoat#1046` | 2,211,257    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=292953664492929025&scope=bot%20applications.commands&permissions=829811966&response_type=code&redirect_uri=https://unbelievaboat.com/landing) |
+| `Mimu#5713`        | 1,957,970    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=493716749342998541&scope=bot%20applications.commands&permissions=1007021169) |
+| `Arcane#7800`      | 1,573,373    | [Click here to invite](https://arcane.bot/invite) |
+| `Ayana#8911`       | 1,565,560    | [Click here to invite](https://ayana.io/invite?ref=dbl) |
 
 ## ⚠️ Disclaimer
-
 > This list might not include all of the most popular bots and not might not include all exact stats of the bots. This list is based on the [top.gg](https://top.gg) API.
-> Also, we are not affiliated with top.gg in any way.
+Also, we are not affiliated with top.gg in any way.
 
 ## 📈 Contributors
-
 <a href="https://github.com/binary-blazer/TopBotsGallery/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=binary-blazer/TopBotsGallery"/>
 </a>
 
 ## 📝 License
-
 This project is licensed under the Apache-2.0 License. See the [LICENSE](https://github.com/binary-blazer/TopBotsGallery/blob/main/LICENSE) file for details or see below.
 
 ```
