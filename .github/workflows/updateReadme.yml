@@ -8,7 +8,8 @@ on:
 jobs:
   run-bot:
     runs-on: ubuntu-latest
-    permissions: write-all
+    permissions:
+      contents: write
     strategy:
       matrix:
         node: [18.x]
