@@ -3,6 +3,7 @@ name: Update Readme
 on:
   schedule:
     - cron: "0 * * * *"
+  workflow_dispatch:
 
 jobs:
   run-bot:
@@ -30,11 +31,9 @@ jobs:
         env:
           TOP_GG_TOKEN: ${{ secrets.TOP_GG_TOKEN }}
       - name: ☑️ Commit Changes
-        run: |
-          if [[ "$(git status --porcelain)" != "" ]]; then
-            git config user.name binary-blazer
-            git config user.email jonasfranke@sdevs.org
-            git add .
-            git commit -m "[➡️] Update Readme"
-            git push -f
-          fi
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+         commit_message: "[➡️] Update Readme"
+         branch: ${{ github.head_ref }}
+         commit_user_name: binary-blazer
+         commit_user_email: jonasfranke@sdevs.org
