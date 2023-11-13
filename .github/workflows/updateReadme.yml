@@ -33,7 +33,7 @@ jobs:
       - name: ☑️ Commit Changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-         commit_message: "[➡️] Update Readme"
-         branch: ${{ github.head_ref }}
-         commit_user_name: binary-blazer
-         commit_user_email: jonasfranke@sdevs.org
+          commit_message: "[➡️] Update Readme"
+          branch: ${{ github.head_ref }}
+          commit_user_name: binary-blazer
+          commit_user_email: jonasfranke@sdevs.org
