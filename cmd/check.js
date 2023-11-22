@@ -6,6 +6,7 @@ dotenv.config();
 
 const API_TOKEN = process.env.TOP_GG_TOKEN;
 const API_URL = "https://top.gg/api/bots?sort=server_count&limit=20";
+const JAPI_URL = "https://japi.rest/discord/v1/application/";
 
 const headers = {
   Authorization: API_TOKEN,
@@ -19,8 +20,35 @@ function formatCount(count) {
 
 await axios
   .get(API_URL, { headers: headers })
-  .then((response) => {
-    const bots = response.data.results;
+  .then(async (response) => {
+    const _bots = response.data.results;
+
+    let bots = [];
+
+    for (let bot of _bots) {
+      await axios
+        .get(`${JAPI_URL}${bot.id}`)
+        .then((response) => {
+          const _bot = response.data.data.bot;
+
+          bots.push({
+            id: _bot?.id ?? bot.id,
+            username: _bot?.username ?? bot.username,
+            discriminator: _bot?.discriminator ?? bot.discriminator,
+            server_count: _bot?.approximate_guild_count ?? bot.server_count,
+            invite: bot.invite ?? `https://discord.com/oauth2/authorize?client_id=${bot.id}&scope=bot&permissions=0`,
+          });
+
+          if (bots.length === _bots.length) {
+            return;
+          }
+        })
+        .catch((error) => {
+          console.log(error);
+        });
+    }
+
+    bots.sort((a, b) => b.server_count - a.server_count);
 
     let maxNameLength = Math.max(
       "Bot".length,
