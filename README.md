@@ -6,22 +6,22 @@
 | `Rythm#3722`       | 19,700,000   | [Click here to invite](https://rythmbot.co/invite) |
 | `MEE6#4876`        | 19,500,000   | [Click here to invite](https://discord.com/oauth2/authorize?scope=bot+applications.commands&response_type=code&redirect_uri=https%3A%2F%2Fmee6.xyz%2Fguild-oauth&permissions=296150887519&client_id=159985415099514880) |
 | `ProBot ✨#5803`    | 9,100,000    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=282859044593598464&scope=identify+guilds+bot+applications.commands+applications.commands.permissions.update&permissions=2080374975&response_type=code&redirect_uri=https://api.probot.io/authback) |
-| `Dyno#3861`        | 8,895,317    | [Click here to invite](https://dyno.gg/invite?utm_campaign=topgg) |
+| `Dyno#3861`        | 8,895,375    | [Click here to invite](https://dyno.gg/invite?utm_campaign=topgg) |
 | `Dank Memer#5192`  | 8,627,015    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=270904126974590976&scope=bot%20applications.commands&permissions=105227086912&redirect_uri=https%3A%2F%2Fdankmemer.lol%2Flanding%3Fsource%3Dtopgg&response_type=code) |
-| `OwO#8456`         | 3,646,409    | [Click here to invite](https://discordapp.com/oauth2/authorize?client_id=408785106942164992&permissions=1074120776&scope=bot) |
-| `Jockie Music#8158` | 3,644,176    | [Click here to invite](https://www.jockiemusic.com/api/invite/411916947773587456?site=topgg) |
-| `Nekotina#0608`    | 3,510,089    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=429457053791158281&permissions=1642824461566&scope=bot%20applications.commands) |
-| `Pancake#3691`     | 3,428,271    | [Click here to invite](https://pancake.gg/invite) |
+| `OwO#8456`         | 3,646,442    | [Click here to invite](https://discordapp.com/oauth2/authorize?client_id=408785106942164992&permissions=1074120776&scope=bot) |
+| `Jockie Music#8158` | 3,644,299    | [Click here to invite](https://www.jockiemusic.com/api/invite/411916947773587456?site=topgg) |
+| `Nekotina#0608`    | 3,510,113    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=429457053791158281&permissions=1642824461566&scope=bot%20applications.commands) |
+| `Pancake#3691`     | 3,428,281    | [Click here to invite](https://pancake.gg/invite) |
 | `Carl-bot#1536`    | 3,395,239    | [Click here to invite](https://discordapp.com/oauth2/authorize?client_id=235148962103951360&scope=bot&permissions=2088234238) |
 | `Mudae#0807`       | 3,371,839    | [Click here to invite](https://discord.com/api/oauth2/authorize?client_id=432610292342587392&permissions=537159744&scope=applications.commands%20bot) |
 | `YAGPDB.xyz#8760`  | 3,278,645    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=204255083083333633&scope=applications.commands+bot&permissions=2146827775) |
 | `ServerStats#0197` | 2,991,000    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=458276816071950337&permissions=1100824&response_type=code&redirect_uri=https%3A%2F%2Fserverstatsbot.com%2Finvite&scope=bot+applications.commands) |
-| `Ticket Tool#4843` | 2,912,580    | [Click here to invite](https://discordapp.com/oauth2/authorize?client_id=557628352828014614&scope=applications.commands+bot&permissions=2952915024) |
-| `Loritta#0219`     | 2,912,267    | [Click here to invite](https://loritta.website/dashboard) |
-| `Koya#1050`        | 2,752,467    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=276060004262477825&scope=bot+applications.commands&permissions=1644971945207&response_type=code&redirect_uri=https%3A%2F%2Fkoya.gg%2Fcallback) |
-| `UnbelievaBoat#1046` | 2,216,570    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=292953664492929025&scope=bot%20applications.commands&permissions=829811966&response_type=code&redirect_uri=https://unbelievaboat.com/landing) |
-| `Mimu#5713`        | 1,971,094    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=493716749342998541&scope=bot%20applications.commands&permissions=1007021169) |
-| `Arcane#7800`      | 1,581,905    | [Click here to invite](https://arcane.bot/invite) |
+| `Ticket Tool#4843` | 2,912,635    | [Click here to invite](https://discordapp.com/oauth2/authorize?client_id=557628352828014614&scope=applications.commands+bot&permissions=2952915024) |
+| `Loritta#0219`     | 2,912,284    | [Click here to invite](https://loritta.website/dashboard) |
+| `Koya#1050`        | 2,752,510    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=276060004262477825&scope=bot+applications.commands&permissions=1644971945207&response_type=code&redirect_uri=https%3A%2F%2Fkoya.gg%2Fcallback) |
+| `UnbelievaBoat#1046` | 2,216,587    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=292953664492929025&scope=bot%20applications.commands&permissions=829811966&response_type=code&redirect_uri=https://unbelievaboat.com/landing) |
+| `Mimu#5713`        | 1,971,159    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=493716749342998541&scope=bot%20applications.commands&permissions=1007021169) |
+| `Arcane#7800`      | 1,581,936    | [Click here to invite](https://arcane.bot/invite) |
 | `Ayana#8911`       | 1,566,653    | [Click here to invite](https://ayana.io/invite?ref=dbl) |
 
 ## ⚠️ Disclaimer
