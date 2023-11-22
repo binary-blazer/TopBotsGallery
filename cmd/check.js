@@ -36,7 +36,9 @@ await axios
             username: _bot?.username ?? bot.username,
             discriminator: _bot?.discriminator ?? bot.discriminator,
             server_count: _bot?.approximate_guild_count ?? bot.server_count,
-            invite: bot.invite ?? `https://discord.com/oauth2/authorize?client_id=${bot.id}&scope=bot&permissions=0`,
+            invite:
+              bot.invite ??
+              `https://discord.com/oauth2/authorize?client_id=${bot.id}&scope=bot&permissions=0`,
           });
 
           if (bots.length === _bots.length) {
