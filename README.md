@@ -7,22 +7,22 @@
 | `Rythm#3722`       | 15,400,000   | [Click here to invite](https://rythmbot.co/invite) |
 | `Dank Memer#5192`  | 9,270,000    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=270904126974590976&scope=bot%20applications.commands&permissions=105227086912&redirect_uri=https%3A%2F%2Fdankmemer.lol%2Flanding%3Fsource%3Dtopgg&response_type=code) |
 | `ProBot ✨#5803`    | 9,260,000    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=282859044593598464&scope=identify+guilds+bot+applications.commands+applications.commands.permissions.update&permissions=2080374975&response_type=code&redirect_uri=https://api.probot.io/authback) |
-| `Carl-bot#1536`    | 9,200,000    | [Click here to invite](https://discordapp.com/oauth2/authorize?client_id=235148962103951360&scope=bot&permissions=2088234238) |
-| `Dyno#3861`        | 8,936,407    | [Click here to invite](https://dyno.gg/invite?utm_campaign=topgg) |
+| `Carl-bot#1536`    | 9,130,000    | [Click here to invite](https://discordapp.com/oauth2/authorize?client_id=235148962103951360&scope=bot&permissions=2088234238) |
+| `Dyno#3861`        | 8,936,511    | [Click here to invite](https://dyno.gg/invite?utm_campaign=topgg) |
 | `Jockie Music#8158` | 3,700,000    | [Click here to invite](https://www.jockiemusic.com/api/invite/411916947773587456?site=topgg) |
 | `OwO#8456`         | 3,670,000    | [Click here to invite](https://discordapp.com/oauth2/authorize?client_id=408785106942164992&permissions=1074120776&scope=bot) |
-| `Mudae#0807`       | 3,620,000    | [Click here to invite](https://discord.com/api/oauth2/authorize?client_id=432610292342587392&permissions=537159744&scope=applications.commands%20bot) |
+| `Mudae#0807`       | 3,610,000    | [Click here to invite](https://discord.com/api/oauth2/authorize?client_id=432610292342587392&permissions=537159744&scope=applications.commands%20bot) |
 | `Nekotina#0608`    | 3,560,000    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=429457053791158281&permissions=1642824461566&scope=bot%20applications.commands) |
-| `Pancake#3691`     | 3,450,000    | [Click here to invite](https://pancake.gg/invite) |
+| `Pancake#3691`     | 3,440,000    | [Click here to invite](https://pancake.gg/invite) |
 | `YAGPDB.xyz#8760`  | 3,288,709    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=204255083083333633&scope=applications.commands+bot&permissions=2146827775) |
 | `ServerStats#0197` | 3,010,000    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=458276816071950337&permissions=1100824&response_type=code&redirect_uri=https%3A%2F%2Fserverstatsbot.com%2Finvite&scope=bot+applications.commands) |
-| `Loritta#0219`     | 2,940,000    | [Click here to invite](https://loritta.website/dashboard) |
+| `Loritta#0219`     | 2,950,000    | [Click here to invite](https://loritta.website/dashboard) |
 | `Ticket Tool#4843` | 2,920,000    | [Click here to invite](https://discordapp.com/oauth2/authorize?client_id=557628352828014614&scope=applications.commands+bot&permissions=2952915024) |
 | `Koya#1050`        | 2,750,000    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=276060004262477825&scope=bot+applications.commands&permissions=1644971945207&response_type=code&redirect_uri=https%3A%2F%2Fkoya.gg%2Fcallback) |
-| `UnbelievaBoat#1046` | 2,220,000    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=292953664492929025&scope=bot%20applications.commands&permissions=829811966&response_type=code&redirect_uri=https://unbelievaboat.com/landing) |
+| `UnbelievaBoat#1046` | 2,230,000    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=292953664492929025&scope=bot%20applications.commands&permissions=829811966&response_type=code&redirect_uri=https://unbelievaboat.com/landing) |
 | `Mimu#5713`        | 1,990,000    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=493716749342998541&scope=bot%20applications.commands&permissions=1007021169) |
 | `Arcane#7800`      | 1,600,000    | [Click here to invite](https://arcane.bot/invite) |
-| `Ayana#8911`       | 1,568,000    | [Click here to invite](https://ayana.io/invite?ref=dbl) |
+| `Ayana#8911`       | 1,567,995    | [Click here to invite](https://ayana.io/invite?ref=dbl) |
 
 ## ⚠️ Disclaimer
 > This list might not include all of the most popular bots and not might not include all exact stats of the bots. This list is based on the [top.gg](https://top.gg) API.
