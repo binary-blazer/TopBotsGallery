@@ -8,13 +8,13 @@
 | `Dank Memer#5192`  | 9,280,000    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=270904126974590976&scope=bot%20applications.commands&permissions=105227086912&redirect_uri=https%3A%2F%2Fdankmemer.lol%2Flanding%3Fsource%3Dtopgg&response_type=code) |
 | `Carl-bot#1536`    | 9,130,000    | [Click here to invite](https://discordapp.com/oauth2/authorize?client_id=235148962103951360&scope=bot&permissions=2088234238) |
 | `ProBot ✨#5803`    | 9,110,000    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=282859044593598464&scope=identify+guilds+bot+applications.commands+applications.commands.permissions.update&permissions=2080374975&response_type=code&redirect_uri=https://api.probot.io/authback) |
-| `Dyno#3861`        | 8,940,007    | [Click here to invite](https://dyno.gg/invite?utm_campaign=topgg) |
+| `Dyno#3861`        | 8,940,139    | [Click here to invite](https://dyno.gg/invite?utm_campaign=topgg) |
 | `Jockie Music#8158` | 3,720,000    | [Click here to invite](https://www.jockiemusic.com/api/invite/411916947773587456?site=topgg) |
 | `OwO#8456`         | 3,680,000    | [Click here to invite](https://discordapp.com/oauth2/authorize?client_id=408785106942164992&permissions=1074120776&scope=bot) |
 | `Mudae#0807`       | 3,620,000    | [Click here to invite](https://discord.com/api/oauth2/authorize?client_id=432610292342587392&permissions=537159744&scope=applications.commands%20bot) |
 | `Nekotina#0608`    | 3,580,000    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=429457053791158281&permissions=1642824461566&scope=bot%20applications.commands) |
 | `Pancake#3691`     | 3,430,000    | [Click here to invite](https://pancake.gg/invite) |
-| `YAGPDB.xyz#8760`  | 3,289,376    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=204255083083333633&scope=applications.commands+bot&permissions=2146827775) |
+| `YAGPDB.xyz#8760`  | 3,289,604    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=204255083083333633&scope=applications.commands+bot&permissions=2146827775) |
 | `ServerStats#0197` | 3,020,000    | [Click here to invite](https://discord.com/oauth2/authorize?client_id=458276816071950337&permissions=1100824&response_type=code&redirect_uri=https%3A%2F%2Fserverstatsbot.com%2Finvite&scope=bot+applications.commands) |
 | `Loritta#0219`     | 2,940,000    | [Click here to invite](https://loritta.website/dashboard) |
 | `Ticket Tool#4843` | 2,900,000    | [Click here to invite](https://discordapp.com/oauth2/authorize?client_id=557628352828014614&scope=applications.commands+bot&permissions=2952915024) |
