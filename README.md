@@ -1,8 +1,10 @@
 ![TopBotsGallery](https://raw.githubusercontent.com/binary-blazer/repo-svgs/main/out/TopBotsGallery/image.svg)
 
-![TopBotsGallery](https://raw.githubusercontent.com/binary-blazer/repo-svgs/main/out/TopBotsGallery/image.svg)
 
-![TopBotsGallery](https://raw.githubusercontent.com/binary-blazer/repo-svgs/main/out/TopBotsGallery/image.svg)
+
+
+
+
 
 # TopBotsGallery
 🤖 20 of the most popular Discord bots are listed in one list. Hourly updated.
